@@ -9,4 +9,8 @@ This is a repository for the common data visualizations in R.
 4. [Chearsheet](https://rstudio.github.io/cheatsheets/)
 ## Other links
 1. [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/)
+2. [Rmarkdown beamer theme matrix](https://hartwork.org/beamer-theme-matrix/)
+3. [bookdown resources for R](https://bookdown.org/home/)
+4. [Xie Yihui](https://yihui.org/)
+5. [How I learnt R by Yihui](https://yihui.org/en/2017/12/how-i-learned-r/)
 
